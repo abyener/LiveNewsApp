@@ -1,1 +1,1 @@
-# LiveNewsApp
+# TypeScript - StepZen - Tailwind - GraphQL
